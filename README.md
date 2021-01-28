@@ -1,5 +1,6 @@
 # AsterMessManagement
 Aster Mess Management system is a console-based application; personalised for data management of a ‘mess’.
+Watch "AMMS preview" video for more details.
 
 It is completely coded in C language.<br>
 Concepts used:<br>
